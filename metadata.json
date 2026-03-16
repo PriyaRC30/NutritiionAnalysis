@@ -1,0 +1,7 @@
+{
+  "name": "Fruit & Vegetable Nutrient Analysis System",
+  "description": "AI-powered system for detecting fruits/vegetables, analyzing texture, moisture, volume, and retrieving nutritional data using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
